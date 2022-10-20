@@ -45,6 +45,10 @@ damianmonea981109@gmail.com
 <br/>
 Pătrașcu Cătălin Lucian
 
+![](img/Catalin.jpg)
+
+catalinptr3@gmail.com
+
 <br/>
 
 # Every newcomer student's problem
