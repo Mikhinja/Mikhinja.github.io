@@ -7,15 +7,21 @@ Might not be limited to finding a room mate, but also features to help students 
 
 # Present the team and assign roles (such as FR, BE, PO, PM, etc)
 
+Roles TBD
+
 <br/>
 Macarie Răzvan Cristian
 
 ![](img/Cristian.png)
 
+cristialex99@gmail.com
+
 <br/>
 Gherman Maria Irina
 
 ![](img/Irina.jpg)
+
+mariazabbidou@gmail.com 
 
 <br/>
 Nuță Mihaela-Mădălina
@@ -27,10 +33,19 @@ Catalina Mihai-Vlad
 
 ![](img/CatalinaMihaiVlad.jpg)
 
+mihai.vlad.catalina@gmail.com
+
 <br/>
 Monea Damian
 
 ![](img/Damian.jpg)
+
+damianmonea981109@gmail.com
+
+<br/>
+Pătrașcu Cătălin Lucian
+
+<br/>
 
 # Every newcomer student's problem
 Coming from a small town or village to a big city is challenging. Even more so if you are a student, with limited resources and / or lack of a social network.
