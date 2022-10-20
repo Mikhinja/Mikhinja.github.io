@@ -7,20 +7,30 @@ Might not be limited to finding a room mate, but also features to help students 
 
 # Present the team and assign roles (such as FR, BE, PO, PM, etc)
 
+<br/>
 Macarie Răzvan Cristian
 
+![](img/Cristian.png)
 
+<br/>
 Gherman Maria Irina
 
+![](img/Irina.jpg)
 
+<br/>
 Nuță Mihaela-Mădălina
 
+![](img/Madalina.jpg)
 
+<br/>
 Catalina Mihai-Vlad
 
 ![](img/CatalinaMihaiVlad.jpg)
 
+<br/>
 Monea Damian
+
+![](img/Damian.jpg)
 
 # Every newcomer student's problem
 Coming from a small town or village to a big city is challenging. Even more so if you are a student, with limited resources and / or lack of a social network.
@@ -41,14 +51,22 @@ More than just a "Tinder for room mates", you will easily find the resources nee
 And to top it all off, you will find a community of students that are or have gone through the same experience as you, albe to provide feedback and guidance with whatever you are struggling.
 
 # Customer segment/s
+Primarily students, either bachelor, masters or even doctorates.
+
+Also universities that want a better representation and a great community for their students.
 
 # Competition
+TBA
 
 # Your advantage over the competition
+TBD
 
 # Key metrics
+TBD
 
 # Cost structure
+TBD
 
 # Revenue streams
+TBD
 
