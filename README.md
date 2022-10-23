@@ -28,6 +28,8 @@ Nuță Mihaela-Mădălina
 
 ![](img/Madalina.jpg)
 
+madalina.nuta1@gmail.com
+
 <br/>
 Catalina Mihai-Vlad
 
